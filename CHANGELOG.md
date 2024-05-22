@@ -2,6 +2,81 @@
 
 # Changelog
 
+### [Version 0.161.3](https://github.com/lobehub/lobe-chat/compare/v0.161.2...v0.161.3)
+
+<sup>Released on **2024-05-22**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Refactor the langfuse env.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Refactor the langfuse env, closes [#2602](https://github.com/lobehub/lobe-chat/issues/2602) ([cbebfbc](https://github.com/lobehub/lobe-chat/commit/cbebfbc))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.161.2](https://github.com/lobehub/lobe-chat/compare/v0.161.1...v0.161.2)
+
+<sup>Released on **2024-05-22**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Refactor the llm env.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Refactor the llm env, closes [#2592](https://github.com/lobehub/lobe-chat/issues/2592) ([5eb225a](https://github.com/lobehub/lobe-chat/commit/5eb225a))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.161.1](https://github.com/lobehub/lobe-chat/compare/v0.161.0...v0.161.1)
+
+<sup>Released on **2024-05-22**</sup>
+
+#### 💄 Styles
+
+- **misc**: Fix setting modal style problem.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Fix setting modal style problem, closes [#2599](https://github.com/lobehub/lobe-chat/issues/2599) ([1a3f8f3](https://github.com/lobehub/lobe-chat/commit/1a3f8f3))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 0.161.0](https://github.com/lobehub/lobe-chat/compare/v0.160.8...v0.161.0)
 
 <sup>Released on **2024-05-21**</sup>
