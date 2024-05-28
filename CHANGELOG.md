@@ -2,6 +2,123 @@
 
 # Changelog
 
+### [Version 0.162.6](https://github.com/lobehub/lobe-chat/compare/v0.162.5...v0.162.6)
+
+<sup>Released on **2024-05-28**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix the default agent not work correctly on new device.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix the default agent not work correctly on new device, closes [#2699](https://github.com/lobehub/lobe-chat/issues/2699) ([e4c7536](https://github.com/lobehub/lobe-chat/commit/e4c7536))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.162.5](https://github.com/lobehub/lobe-chat/compare/v0.162.4...v0.162.5)
+
+<sup>Released on **2024-05-28**</sup>
+
+#### 💄 Styles
+
+- **misc**: Add `SYSTEM_AGENT` env.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Add `SYSTEM_AGENT` env, closes [#2694](https://github.com/lobehub/lobe-chat/issues/2694) ([0dfcf8d](https://github.com/lobehub/lobe-chat/commit/0dfcf8d))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.162.4](https://github.com/lobehub/lobe-chat/compare/v0.162.3...v0.162.4)
+
+<sup>Released on **2024-05-28**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix auto focus issues.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix auto focus issues, closes [#2697](https://github.com/lobehub/lobe-chat/issues/2697) ([8df856e](https://github.com/lobehub/lobe-chat/commit/8df856e))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.162.3](https://github.com/lobehub/lobe-chat/compare/v0.162.2...v0.162.3)
+
+<sup>Released on **2024-05-28**</sup>
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.162.2](https://github.com/lobehub/lobe-chat/compare/v0.162.1...v0.162.2)
+
+<sup>Released on **2024-05-28**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Refactor agent store data.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Refactor agent store data, closes [#2690](https://github.com/lobehub/lobe-chat/issues/2690) ([e201937](https://github.com/lobehub/lobe-chat/commit/e201937))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 0.162.1](https://github.com/lobehub/lobe-chat/compare/v0.162.0...v0.162.1)
 
 <sup>Released on **2024-05-27**</sup>
